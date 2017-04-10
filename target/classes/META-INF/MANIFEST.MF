@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: stockappwebsvc
+Implementation-Version: 0.1.0
+Built-By: Jovita Miranda
+Implementation-Vendor-Id: com.somebody.websvcs
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/stockappwebs
+ vc/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
